@@ -16,9 +16,7 @@
 
 <hr>
 
-<h4>🔭  I’m currently working with ...</h4>
-
-<h5>UI Developer</h5>
+<h4>🔭 I am actively utilizing the following technologies in my current work.</h4>
 <p >
   <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style=" width: 19%; object-fit: cover;" />&nbsp;&nbsp;
   <img src="https://media.licdn.com/dms/image/C4D12AQHqzKVaeV4t4w/article-cover_image-shrink_600_2000/0/1535976466674?e=2147483647&v=beta&t=1Nsg2r-khQ_BEHxwlHP3wWAt93lprsRkykXgEaOJNLI" style=" width: 18%; object-fit: cover;" />&nbsp;&nbsp;
