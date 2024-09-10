@@ -27,6 +27,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4kfsqqpGlQqOO8h5gnV4OSxy8gjZfjypsSQ&s" style=" width: 16%; object-fit: cover;" />&nbsp;&nbsp;
   <img src="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci9lZDI1OTU4NzA0MWM1YWI3OWYyNGNiMWUzNDFmMGEzNz9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.hLdG6hXQE4Dfil6090lrDEuGdsHbfQUijpy5RvzXjSg" style=" width: 9%; object-fit: cover;" />&nbsp;&nbsp;
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" style=" width: 9%; object-fit: cover;" />&nbsp;&nbsp;
+   <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25082439/reactnative-inner.svg" style=" width: 9%; object-fit: cover;" />&nbsp;&nbsp;
 </p>
 
 
