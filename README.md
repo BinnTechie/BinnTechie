@@ -7,9 +7,9 @@
 <p align='center'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" style="width: 2%; object-fit: cover; margin-bottom:-4px"/>
   <span style="fontsize:12px;">binni_k_Official</span>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" style="width: 2%; object-fit: cover;"/>
+  <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" style="width: 2%; object-fit: cover;"/>
   <span>binni_k_Official</span>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" style="width: 2%; object-fit: cover;"/>
+  <img src="https://thumbs.dreamstime.com/b/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C-201003176.jpg" style="width: 2%; object-fit: cover;"/>
   <span>binni_k_Official</span>
 </p>
 
