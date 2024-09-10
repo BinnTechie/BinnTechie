@@ -59,10 +59,11 @@
 
 
 <p align='right'>
-<h4>💬  Sometimes I like to write things here...</h4>
-  <a href="https://dev.to/stefanyvasc"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@stefany.vasc.sa"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://stefanysa.netlify.app/"><img src="https://img.shields.io/badge/-My%20Blog-17bf63?&style=for-the-badge&logo=blog&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
+<h4>💬 Community For learn, share​ programming ​knowledge,...</h4>
+  <a href="https://stackoverflow.com/users/12613343/binni-kumari"><img src="https://media.wired.com/photos/5926db217034dc5f91becd6b/master/w_2560%2Cc_limit/so-logo-s.jpg" style=" width: 9%; object-fit: cover;"  /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/"><img src="https://www.careerguide.com/career/wp-content/uploads/2023/09/GFG-placements.jpeg" style=" width: 9%; object-fit: cover;"  /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.udemy.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4SZdDrVQPwxEZAhyfVpMW-7J2VkOe0AWrlQ&s" style=" width: 9%; object-fit: cover;"  /></a>&nbsp;&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/learning/"><img src="https://media.licdn.com/dms/image/D5612AQECSChrW_uMVg/article-cover_image-shrink_720_1280/0/1714757581530?e=2147483647&v=beta&t=Z5vESZunltavHurPr8MeSoZL71OqqpNmyCxHuO8Lrw0" style=" width: 9%; object-fit: cover;"  /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
