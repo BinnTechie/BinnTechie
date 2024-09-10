@@ -46,7 +46,7 @@
 
 <h4>🌱  I'm currently learning...</h4>
 <p >
-  <img src="https://w7.pngwing.com/pngs/991/165/png-transparent-docker-hd-logo.png" style=" width: 9%; object-fit: cover;" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0wSCMzehyhrUKKLN7xPUTu8OtMI1nwYAJkA&s" style=" width: 9%; object-fit: cover;" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=Astro&logoColor=white" />&nbsp;&nbsp;&nbsp;
