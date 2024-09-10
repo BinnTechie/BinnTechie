@@ -12,8 +12,7 @@
  </a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://github.com/BinnTechie"><img src="https://img.shields.io/badge/Leetcode-black?style=flat-square&logo=Leetcode&logoColor=orange" />
  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://github.com/BinnTechie"><img src="https://img.shields.io/badge/stack-overflow-orange?style=flat-square&logo=stack-overflow&logoColor=orange
-" />
+   <a href="https://github.com/BinnTechie"><img src="https://img.shields.io/badge/stack-overflow-orange?style=flat-square&logo=stack-overflow&logoColor=orange" />
  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
