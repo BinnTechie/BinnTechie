@@ -14,6 +14,8 @@
     <a href="https://twitter.com/stefany_vasc"><img src="https://img.shields.io/badge/Instagram-Green?style=flat-square&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://github.com/BinnTechie"><img src="https://img.shields.io/badge/stack-overflow-orange?style=flat-square&logo=stack-overflow&logoColor=orange" />
  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/BinnTechie"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />
+ </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -64,6 +66,7 @@
   <a href="https://www.geeksforgeeks.org/"><img src="https://www.careerguide.com/career/wp-content/uploads/2023/09/GFG-placements.jpeg" style=" width: 9%; object-fit: cover;"  /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.udemy.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4SZdDrVQPwxEZAhyfVpMW-7J2VkOe0AWrlQ&s" style=" width: 9%; object-fit: cover;"  /></a>&nbsp;&nbsp;&nbsp;
    <a href="https://www.linkedin.com/learning/"><img src="https://media.licdn.com/dms/image/D5612AQECSChrW_uMVg/article-cover_image-shrink_720_1280/0/1714757581530?e=2147483647&v=beta&t=Z5vESZunltavHurPr8MeSoZL71OqqpNmyCxHuO8Lrw0" style=" width: 9%; object-fit: cover;"  /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/learning/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" style=" width: 9%; object-fit: cover;"  /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
