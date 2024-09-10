@@ -18,7 +18,11 @@
 
 <h5>UI Developer</h5>
 <p >
-  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style=" width: 23%; object-fit: cover;" />&nbsp;&nbsp;<img src="https://media.licdn.com/dms/image/C4D12AQHqzKVaeV4t4w/article-cover_image-shrink_600_2000/0/1535976466674?e=2147483647&v=beta&t=1Nsg2r-khQ_BEHxwlHP3wWAt93lprsRkykXgEaOJNLI" style=" width: 23%; object-fit: cover;" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style=" width: 23%; object-fit: cover;" />&nbsp;&nbsp;
+  <img src="https://media.licdn.com/dms/image/C4D12AQHqzKVaeV4t4w/article-cover_image-shrink_600_2000/0/1535976466674?e=2147483647&v=beta&t=1Nsg2r-khQ_BEHxwlHP3wWAt93lprsRkykXgEaOJNLI" style=" width: 23%; object-fit: cover;" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci9lZDI1OTU4NzA0MWM1YWI3OWYyNGNiMWUzNDFmMGEzNz9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.hLdG6hXQE4Dfil6090lrDEuGdsHbfQUijpy5RvzXjSg" style=" width: 23%; object-fit: cover;" />&nbsp;&nbsp;
 </p>
 
 
