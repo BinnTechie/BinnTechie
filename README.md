@@ -27,7 +27,19 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4kfsqqpGlQqOO8h5gnV4OSxy8gjZfjypsSQ&s" style=" width: 16%; object-fit: cover;" />&nbsp;&nbsp;
   <img src="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci9lZDI1OTU4NzA0MWM1YWI3OWYyNGNiMWUzNDFmMGEzNz9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.hLdG6hXQE4Dfil6090lrDEuGdsHbfQUijpy5RvzXjSg" style=" width: 9%; object-fit: cover;" />&nbsp;&nbsp;
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" style=" width: 9%; object-fit: cover;" />&nbsp;&nbsp;
+  
+</p>
+
+<hr>
+
+<h4>🔭  I’m actively utilizing the following technologies...</h4>
+
+<h5>Mobile App Developer</h5>
+<p >
+ 
    <img src="https://www.iteachrecruiters.com/img/blog/logo/react-native.png" style=" width: 9%; object-fit: cover;" />&nbsp;&nbsp;
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRspSfBB663Xf5FZfCVw85saT78qytnqHUqw&s" style=" width: 9%; object-fit: cover;" />&nbsp;&nbsp;
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSnGERsRZiiP4pPZUtlW2OVL0FLn9H2LtQCQ&s" style=" width: 9%; object-fit: cover;" />&nbsp;&nbsp;
 </p>
 
 
