@@ -8,7 +8,8 @@
   <a href="https://twitter.com/stefany_vasc"><img src="https://img.shields.io/badge/Instagram-Green?style=flat-square&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/stefanyvasconcelos/"><img src="https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:kumaribinni445@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+ <a href="https://github.com/BinnTechie"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white
+" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
