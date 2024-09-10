@@ -5,14 +5,10 @@
 </p>
 
 <p align='center'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" style="width: 2%; object-fit: cover;"/>
-  <span style="font-size: 12px; vertical-align: middle;">binni_k_Official</span>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" style="width: 4%; object-fit: cover;"/>
-  <span style="font-size: 12px; vertical-align: middle;">binni_k_Official</span>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <img src="https://thumbs.dreamstime.com/b/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C-201003176.jpg" style="width: 3%; object-fit: cover;"/>
-  <span style="font-size: 12px; vertical-align: middle;">binni_k_Official</span>
+  <a href="https://twitter.com/stefany_vasc"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/stefanyvasconcelos/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:stefany.vasc.sa@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 </p>
 
 
