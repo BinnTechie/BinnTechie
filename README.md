@@ -5,8 +5,8 @@
 </p>
 
 <p align='center'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" style="width: 2%; object-fit: cover;"/>
-  <span>binni_k_Official</span>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" style="width: 2%; object-fit: cover; margin-bottom:-4px"/>
+  <span style="fontsize:12px;">binni_k_Official</span>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" style="width: 2%; object-fit: cover;"/>
   <span>binni_k_Official</span>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" style="width: 2%; object-fit: cover;"/>
