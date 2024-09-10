@@ -10,6 +10,8 @@
   <a href="mailto:kumaribinni445@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://github.com/BinnTechie"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white" />
  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://github.com/BinnTechie"><img src="https://img.shields.io/badge/Leetcode-black?style=flat-square&logo=Leetcode&logoColor=orange" />
+ </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
