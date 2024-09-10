@@ -47,7 +47,7 @@
 <h4>🌱  I'm currently learning...</h4>
 <p >
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0wSCMzehyhrUKKLN7xPUTu8OtMI1nwYAJkA&s" style=" width: 9%; object-fit: cover;" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://download.logo.wine/logo/Kubernetes/Kubernetes-Logo.wine.png" style=" width: 9%; object-fit: cover;" />&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" style=" width: 9%; object-fit: cover;" />&nbsp;&nbsp;&nbsp;
   <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25075538/flutter-inner.svg" style=" width: 9%; object-fit: cover;" />&nbsp;&nbsp;&nbsp;
 
 </p>
