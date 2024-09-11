@@ -21,16 +21,17 @@
 <h4>🔭  I’m currently working with ...</h4>
 
 <h5>UI Developer</h5>
-<p>
-  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style="width: 10%;" />&nbsp;&nbsp;
-  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style="width: 10%;" />&nbsp;&nbsp;
-  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style="width: 10%;" />&nbsp;&nbsp;
-  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style="width: 10%;" />&nbsp;&nbsp;
-  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style="width: 10%;" />&nbsp;&nbsp;
-  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style="width: 10%;" />&nbsp;&nbsp;
-  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style="width: 10%;" />&nbsp;&nbsp;
-  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style="width: 10%;" />&nbsp;&nbsp;
+<p style="display: flex; flex-wrap: wrap;">
+  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style="width: 10%; margin-right: 10px;" />
+  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style="width: 10%; margin-right: 10px;" />
+  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style="width: 10%; margin-right: 10px;" />
+  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style="width: 10%; margin-right: 10px;" />
+  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style="width: 10%; margin-right: 10px;" />
+  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style="width: 10%; margin-right: 10px;" />
+  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style="width: 10%; margin-right: 10px;" />
+  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style="width: 10%;" />
 </p>
+
 
 
 
