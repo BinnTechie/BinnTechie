@@ -1,46 +1,24 @@
-<h1 align='center'> Hi there 👋, I'm Binni  👩‍💻 </h1>
+<h1 align='center'> Hi there 👋, I'm Stefany  👩‍💻 </h1>
 
 <p align='center'>
-  I live in Bangalore, Karnataka, India
+  I live in Recife, Brazil
 </p>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/kumaribinni/"><img src="https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:kumaribinni445@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/BinnTechie"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/accounts/login/"><img src="https://img.shields.io/badge/Leetcode-black?style=flat-square&logo=Leetcode&logoColor=orange" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/binni_k_official/"><img src="https://img.shields.io/badge/Instagram-Green?style=flat-square&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/stefany_vasc"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/stefanyvasconcelos/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:stefany.vasc.sa@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
-
-
 
 
 <hr>
 
-<h4>🔭  I’m actively utilizing the following technologies...</h4>
+<h4>🔭  I’m currently working with ...</h4>
 
-<h5>Full Stack Developer</h5>
+<h5>UI Developer</h5>
 <p >
-  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style=" width: 19%; object-fit: cover;" />&nbsp;&nbsp;
-  <img src="https://media.licdn.com/dms/image/C4D12AQHqzKVaeV4t4w/article-cover_image-shrink_600_2000/0/1535976466674?e=2147483647&v=beta&t=1Nsg2r-khQ_BEHxwlHP3wWAt93lprsRkykXgEaOJNLI" style=" width: 18%; object-fit: cover;" />&nbsp;&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBwzWqFVu66ck-2u_nDBgLTZbR3cNjpUCbWg&s" style=" width: 15%; object-fit: cover;">&nbsp;&nbsp;
-  <img src="https://marketplacedesignoye.s3.ap-south-1.amazonaws.com/mongodb-branding-icon-symbol-logo-vector-_1540.png"  style=" width: 11%; object-fit: cover;"/>&nbsp;&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4kfsqqpGlQqOO8h5gnV4OSxy8gjZfjypsSQ&s" style=" width: 16%; object-fit: cover;" />&nbsp;&nbsp;
-  <img src="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci9lZDI1OTU4NzA0MWM1YWI3OWYyNGNiMWUzNDFmMGEzNz9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.hLdG6hXQE4Dfil6090lrDEuGdsHbfQUijpy5RvzXjSg" style=" width: 9%; object-fit: cover;" />&nbsp;&nbsp;
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" style=" width: 9%; object-fit: cover;" />&nbsp;&nbsp;
-  
-</p>
-
-<hr>
-
-
-<h5>Mobile App Developer</h5>
-<p >
- 
-   <img src="https://www.iteachrecruiters.com/img/blog/logo/react-native.png" style=" width: 9%; object-fit: cover;" />&nbsp;&nbsp;
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRspSfBB663Xf5FZfCVw85saT78qytnqHUqw&s" style=" width: 9%; object-fit: cover;" />&nbsp;&nbsp;
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSnGERsRZiiP4pPZUtlW2OVL0FLn9H2LtQCQ&s" style=" width: 9%; object-fit: cover;" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 
@@ -48,20 +26,18 @@
 
 <h4>🌱  I'm currently learning...</h4>
 <p >
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0wSCMzehyhrUKKLN7xPUTu8OtMI1nwYAJkA&s" style=" width: 9%; object-fit: cover;" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" style=" width: 9%; object-fit: cover;" />&nbsp;&nbsp;&nbsp;
-  <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25075538/flutter-inner.svg" style=" width: 9%; object-fit: cover;" />&nbsp;&nbsp;&nbsp;
-
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=Astro&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 
 <p align='right'>
-<h4>💬 Community For learn, share​ programming ​knowledge,...</h4>
-  <a href="https://stackoverflow.com/users/12613343/binni-kumari"><img src="https://media.wired.com/photos/5926db217034dc5f91becd6b/master/w_2560%2Cc_limit/so-logo-s.jpg" style=" width: 9%; object-fit: cover;"  /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/"><img src="https://www.careerguide.com/career/wp-content/uploads/2023/09/GFG-placements.jpeg" style=" width: 9%; object-fit: cover;"  /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.udemy.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4SZdDrVQPwxEZAhyfVpMW-7J2VkOe0AWrlQ&s" style=" width: 9%; object-fit: cover;"  /></a>&nbsp;&nbsp;&nbsp;
-   <a href="https://www.linkedin.com/learning/"><img src="https://media.licdn.com/dms/image/D5612AQECSChrW_uMVg/article-cover_image-shrink_720_1280/0/1714757581530?e=2147483647&v=beta&t=Z5vESZunltavHurPr8MeSoZL71OqqpNmyCxHuO8Lrw0" style=" width: 9%; object-fit: cover;"  /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/learning/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" style=" width: 9%; object-fit: cover;"  /></a>&nbsp;&nbsp;&nbsp;
+<h4>💬  Sometimes I like to write things here...</h4>
+  <a href="https://dev.to/stefanyvasc"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@stefany.vasc.sa"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://stefanysa.netlify.app/"><img src="https://img.shields.io/badge/-My%20Blog-17bf63?&style=for-the-badge&logo=blog&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
