@@ -39,7 +39,7 @@
 </p>
 
 
-### 🚀 Technologies I work with:
+### 🚀 I’m actively utilizing the following technologies...
 
 #### Web Development
 <p align="left">
@@ -54,9 +54,9 @@
 
 #### Mobile Development
 <p align="left">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://www.iteachrecruiters.com/img/blog/logo/react-native.png" style=" width: 9%; object-fit: cover;" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRspSfBB663Xf5FZfCVw85saT78qytnqHUqw&s" style=" width: 9%; object-fit: cover;" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSnGERsRZiiP4pPZUtlW2OVL0FLn9H2LtQCQ&s" style=" width: 9%; object-fit: cover;" />
 </p>
 
 #### Databases
