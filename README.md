@@ -26,7 +26,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBwzWqFVu66ck-2u_nDBgLTZbR3cNjpUCbWg&s" style=" width: 15%; object-fit: cover;" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4kfsqqpGlQqOO8h5gnV4OSxy8gjZfjypsSQ&s" style=" width: 16%; object-fit: cover;" />
   <img src="https://ih1.redbubble.net/image.4053536786.3862/raf,360x360,075,t,fafafa:ca443f4786.u1.jpg" style=" width: 9%; object-fit: cover;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" style=" width: 9%; object-fit: cover;" />
+  <img src="https://www.adm.ee/wordpress/wp-content/uploads/2023/12/javascript_and_typescript-1.jpg" style=" width: 9%; object-fit: cover;" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" style=" width: 9%; object-fit: cover;" />
 </p>
 
