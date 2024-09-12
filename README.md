@@ -43,7 +43,7 @@
 
 #### Web Development
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-red?style=social&logo=HTML5&logoColor=Black" alt="HTML5" />
+  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style=" width: 19%; object-fit: cover;" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
