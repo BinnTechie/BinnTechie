@@ -25,7 +25,7 @@
   <img src="https://media.licdn.com/dms/image/C4D12AQHqzKVaeV4t4w/article-cover_image-shrink_600_2000/0/1535976466674?e=2147483647&v=beta&t=1Nsg2r-khQ_BEHxwlHP3wWAt93lprsRkykXgEaOJNLI" style=" width: 18%; object-fit: cover;" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBwzWqFVu66ck-2u_nDBgLTZbR3cNjpUCbWg&s" style=" width: 15%; object-fit: cover;" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4kfsqqpGlQqOO8h5gnV4OSxy8gjZfjypsSQ&s" style=" width: 16%; object-fit: cover;" />
-  <img src="https://ih1.redbubble.net/image.4053536903.3862/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" style=" width: 9%; object-fit: cover;" />
+  <img src="https://ih1.redbubble.net/image.4053536786.3862/raf,360x360,075,t,fafafa:ca443f4786.u1.jpg" style=" width: 9%; object-fit: cover;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" style=" width: 9%; object-fit: cover;" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" style=" width: 9%; object-fit: cover;" />
 </p>
