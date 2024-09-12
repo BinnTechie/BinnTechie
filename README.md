@@ -41,6 +41,7 @@
 #### Databases
 <p align="left">
   <img src="https://marketplacedesignoye.s3.ap-south-1.amazonaws.com/mongodb-branding-icon-symbol-logo-vector-_1540.png"  style=" width: 11%; object-fit: cover;" />
+    <img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Azure-SQL-Server-Monitoring.component.complex-narrative-xl.ts=1724397664191.png/content/adobe-cms/us/en/products/instana/supported-technologies/microsoft-sql-server-monitoring/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage"  style=" width: 11%; object-fit: cover;" />
   <img src="https://google.github.io/sqlcommenter/images/sequelize-logo.png" style=" width: 16%; object-fit: cover;" />
 </p>
 
