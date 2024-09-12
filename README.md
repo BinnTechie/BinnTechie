@@ -28,6 +28,7 @@
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4kfsqqpGlQqOO8h5gnV4OSxy8gjZfjypsSQ&s" style=" width: 16%; object-fit: cover;" />
   <img src="https://www.adm.ee/wordpress/wp-content/uploads/2023/12/javascript_and_typescript-1.jpg" style=" width: 16%; object-fit: cover;" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" style=" width: 9%; object-fit: cover;" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKBKbgGZthcVsW4vVOTAZOKzOpXDLfC8PMrw&s" style=" width: 9%; object-fit: cover;" />
 </p>
 
 #### Mobile Development
