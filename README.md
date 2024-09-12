@@ -14,7 +14,7 @@
 <a href="https://github.com/BinnTechie"><img src="https://img.shields.io/badge/hackerrank-black?style=flat-square&logo=hackerrank&logoColor=Black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
+<hr>
 
 
 ### 🚀 I’m actively utilizing the following technologies...
