@@ -21,7 +21,7 @@
 
 #### Web Development
 <p align="left">
-  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style=" width: 19%; object-fit: cover;" alt="HTML5" />
+  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style=" width: 18%; object-fit: cover;" alt="HTML5" />
   <img src="https://media.licdn.com/dms/image/C4D12AQHqzKVaeV4t4w/article-cover_image-shrink_600_2000/0/1535976466674?e=2147483647&v=beta&t=1Nsg2r-khQ_BEHxwlHP3wWAt93lprsRkykXgEaOJNLI" style=" width: 18%; object-fit: cover;" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBwzWqFVu66ck-2u_nDBgLTZbR3cNjpUCbWg&s" style=" width: 15%; object-fit: cover;" />
   <img src="https://ih1.redbubble.net/image.4053536786.3862/raf,360x360,075,t,fafafa:ca443f4786.u1.jpg" style=" width: 9%; object-fit: cover;" />
