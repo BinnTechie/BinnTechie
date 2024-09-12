@@ -39,7 +39,6 @@
 #### Databases
 <p align="left">
   <img src="https://marketplacedesignoye.s3.ap-south-1.amazonaws.com/mongodb-branding-icon-symbol-logo-vector-_1540.png"  style=" width: 11%; object-fit: cover;" />
-  <img src="https://google.github.io/sqlcommenter/images/sequelize-logo.png" style=" width: 11%; object-fit: cover;" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://google.github.io/sqlcommenter/images/sequelize-logo.png" style=" width: 16%; object-fit: cover;" />
 </p>
 
