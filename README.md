@@ -1,68 +1,59 @@
-<h1 align='center'> Hi there 👋, I'm Binni  👩‍💻 </h1>
+# Profile-readme-templates
 
-<p align='center'>
-    I live in Bangalore, Karnataka, India
-</p>
-
-<p align='center'>
-  <a href="https://www.linkedin.com/in/kumaribinni/"><img src="https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/BinnTechie"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:kumaribinni445@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/accounts/login/"><img src="https://img.shields.io/badge/Leetcode-black?style=flat-square&logo=Leetcode&logoColor=orange" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/binni_k_official/"><img src="https://img.shields.io/badge/Instagram-Green?style=flat-square&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/BinnTechie"><img src="https://img.shields.io/badge/stack-overflow-orange?style=flat-square&logo=stack-overflow&logoColor=orange" />
- </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/BinnTechie"><img src="https://img.shields.io/badge/hackerrank-black?style=flat-square&logo=hackerrank&logoColor=Black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+#### This repository contains the collection of some good profile readme . With the help of these you can make your own attractive profile readme.You can contribute to this repository by adding your's or any other's profile readme.
 
 
 <hr>
 
-<h4>🔭  I’m currently working with ...</h4>
+#### How to contribute 
 
-<h5>UI Developer</h5>
-<p align="center">
-  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style="width: 10%; display: inline-block; vertical-align: middle;" />
-  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style="width: 10%; display: inline-block; vertical-align: middle;" />
-  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style="width: 10%; display: inline-block; vertical-align: middle;" />
-  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style="width: 10%; display: inline-block; vertical-align: middle;" />
-  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style="width: 10%; display: inline-block; vertical-align: middle;" />
-  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style="width: 10%; display: inline-block; vertical-align: middle;" />
-  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style="width: 10%; display: inline-block; vertical-align: middle;" />
-  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" style="width: 10%; display: inline-block; vertical-align: middle;" />
-</p>
-
-
-
-
-
+* Star this repository
+* create an issue and wait for approval.
+* Fork this repo after approval.
+* Add your profile readme file in Profile Readme Template folder
+* We will add your profile readme details on this main readme by ourself(If we find it attractive or compelling)
+* To capture larger screen you can minimize the screen by pressing ctrl "+" - 
+* create pull request and wait for approval.
 
 <hr>
 
-<h4>🌱  I'm currently learning...</h4>
-<p >
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=Astro&logoColor=white" />&nbsp;&nbsp;&nbsp;
-</p>
-
-
-<p align='right'>
-<h4>💬  Sometimes I like to write things here...</h4>
-  <a href="https://dev.to/stefanyvasc"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@stefany.vasc.sa"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://stefanysa.netlify.app/"><img src="https://img.shields.io/badge/-My%20Blog-17bf63?&style=for-the-badge&logo=blog&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
-</p>
-
+[Aleksey Voko](https://github.com/Aleksey-Voko/)<br>
+![image](https://github.com/avinash201199/profile-readme-templates/assets/61057666/83d7d3ac-1bb8-4e87-94be-cc090fd1ecba)
 
 <hr>
 
-<br>
-<p align="right">
-  <a href="https://open.spotify.com/playlist/2w8GYqYdH6ve3g0nGcJcgE?si=7bCl8yynR2Saz4VPR6mDXQ"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="steamcommunity.com/id/SteVasc/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <h5 align="right">🎮 To have fun and spend time...</h5>
-</p>
+[Anmol Baranwal](https://github.com/Anmol-Baranwal)<br>
+![image](https://github.com/avinash201199/profile-readme-templates/assets/61057666/e7902f2f-7e3d-4140-ae28-2f4f5f65c661)
+
+<hr>
+
+[Apoorv Tyagi](https://github.com/ApoorvTyagi)<br>
+![image](https://github.com/avinash201199/profile-readme-templates/assets/61057666/23757a4b-ee94-432d-bc09-dbe098ef86bd)
+
+<hr>
+
+[Avinash Singh](https://github.com/avinash201199/) <br>
+![image](https://github.com/avinash201199/profile-readme-templates/assets/61057666/dd8cdb18-eb8b-45ca-a707-b8c37c0d8486)
+
+<hr>
+
+[Bill Chan](https://github.com/billpwchan)<br>
+![image](https://github.com/avinash201199/profile-readme-templates/assets/61057666/b2e65e27-1b36-4fe5-ba91-832c98d823d7)
+
+<hr>
+
+[Jonah Lawrence](https://github.com/DenverCoder1/)<br>
+![image](https://github.com/avinash201199/profile-readme-templates/assets/61057666/e4103981-89e4-473b-9b33-8814af02e5e0)
+
+<hr>
 
 
+[RidhamRj](https://github.com/RidhamRj/)<br>
+![image](https://github.com/avinash201199/profile-readme-templates/assets/61057666/133eb5f8-53e9-4b8c-8483-511244e599c1)
+
+<hr>
+
+[Waren Gonzaga](https://github.com/WarenGonzaga) <br>
+![image](https://github.com/avinash201199/profile-readme-templates/assets/61057666/bbbf5f4c-f994-4166-bf05-5d109decce99)
+
+<hr>
